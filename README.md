@@ -28,3 +28,9 @@ NewsFeeds.java - This will show all the news related information.
 FilterEvent.java - this will filter the event
 
  - All the activity are created using the fragments.So this can be ported to any other projects.
+
+Screenshots
+ 
+![ScreenShot](https://github.com/spkdroid/Day-at-dal-Kiosk/blob/master/screenshot/3.png)
+![ScreenShot](https://github.com/spkdroid/Day-at-dal-Kiosk/blob/master/screenshot/1.png)
+
