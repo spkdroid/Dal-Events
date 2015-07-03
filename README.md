@@ -32,5 +32,5 @@ FilterEvent.java - this will filter the event
 Screenshots
  
 ![ScreenShot](https://github.com/spkdroid/Day-at-dal-Kiosk/blob/master/screenshot/3.png)
-![ScreenShot](https://github.com/spkdroid/Day-at-dal-Kiosk/blob/master/screenshot/1.png)
+![ScreenShot](https://github.com/spkdroid/Day-at-dal-Kiosk/blob/master/screenshot/4.png)
 
