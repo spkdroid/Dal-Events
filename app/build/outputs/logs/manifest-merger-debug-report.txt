@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:12:22-76
+application
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:14:5-55:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:15:9-60
+activity#com.dal.dalevents.client.DalEventsClient
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:23:13-45
+	android:icon
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:21:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.dal.dalevents.MainActivity
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:31:13-41
+intent-filter#android.intent.category.LAUNCHER
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:33:13-35:29
+activity#com.dal.dalevents.admin.CreateEvent
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:37:9-43:20
+	android:label
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:38:13-46
+activity#com.dal.dalevents.admin.AddDescription
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:44:9-50:20
+	android:label
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:45:13-49
+activity#com.dal.dalevents.HomeActivity
+ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from /Users/peterbodorik/Desktop/Dal Events/app/src/main/AndroidManifest.xml:52:13-41

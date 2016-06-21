@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1e551adec0d85fba33ee7b288fd578b998de6785">
+        <dex dex="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b2f8f41419ded0d8c7578f37fb34b4f372a2313/classes.dex" />
+    </item>
+    <item
+        jar="/Users/peterbodorik/Desktop/Dal Events/app/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04b23f428af24a3b67bb50f584349e24d39c775a">
+        <dex dex="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_90a6b9f22c841f2ee8d6eb662e5b5c0274cb12e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1ddcd00bea3aff70682a729e3e8d4b43bfad867b">
+        <dex dex="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1377fb2e3b2aaf9966c8668236d20a487efbc400/classes.dex" />
+    </item>
+    <item
+        jar="/Users/peterbodorik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_f4c53233a4e55dea919a43f178238d0a5fb96500/classes.dex" />
+    </item>
+    <item
+        jar="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_c467d1f3d45f7e602a4d796b42528c0fa9fcf847/classes.dex" />
+    </item>
+    <item
+        jar="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_62694fd74b04230a8e183b48ab30a87fb09fc1c8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_5283668466469d1edc24835e4efe705944fbe68a/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/peterbodorik/Desktop/Dal Events/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/peterbodorik/Desktop/Dal Events/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/res/merged/debug/menu/client.xml",
+        "source": "/Users/peterbodorik/Desktop/Dal Events/app/src/main/res/menu/client.xml"
+    },
+    {
+        "merged": "/Users/peterbodorik/Desktop/Dal Events/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/peterbodorik/Desktop/Dal Events/app/src/main/res/menu/global.xml"
+    }
+]
