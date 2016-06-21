@@ -8,71 +8,40 @@ The information that are gathered are converted into simple set of feeds that ca
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+1) Clone the project
+2) Build using the Android Studio
 
 ### Prerequisities
 
-What things you need to install the software and how to install them
+Android SDK 21
+Gradle
 
 ```
-Give examples
+Android 21 
 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+1) Build the project using Android studio
+2) Generate the Apk file and deploy in your device.
 
-Stay what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+Internet connection is need to fetch the feed from the internet service.
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+The application will be using the live feed from the web server. The crawler is updated every 24 hours.
 
 ## Built With
 
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
+* Android SDK 21
+* Gradle
+* Volly
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+The application is completely open source. Please feel free to fork and use the application. The backend code has been 
+hided due to security reason. Please send me an mail to vrk1990@outlook.com if you need the backend and sql schema.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
@@ -83,8 +52,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
