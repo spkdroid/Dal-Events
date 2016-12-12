@@ -11,13 +11,13 @@ The information that are gathered are converted into simple set of feeds that ca
 
 ## Getting Started
 
-1) Clone the project
-2) Build using the Android Studio
+1) Clone the project <br>
+2) Build using the Android Studio <br>
 
 ### Prerequisities
 
-Android SDK 21
-Gradle
+Android SDK 21 <br>
+Gradle <br>
 
 ```
 Android 21 
@@ -25,8 +25,8 @@ Android 21
 
 ### Installing
 
-1) Build the project using Android studio
-2) Generate the Apk file and deploy in your device.
+1) Build the project using Android studio <br>
+2) Generate the Apk file and deploy in your device. <br>
 
 Internet connection is need to fetch the feed from the internet service.
 
