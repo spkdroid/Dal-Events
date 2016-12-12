@@ -1,8 +1,9 @@
 # Dal Events
 
-Dal Events is a news feed application developed for Dalhousie university. The applicaiton will pull the news information
-about the Dalhousie university from the internet.
-The information that are gathered are converted into simple set of feeds that can be read in your android phone or tablet. The application currently display the news feeds related to student life, research and sports. The application also scans for the events that occur in the campus. Please feel free to use this code to generate a news feed applicaiton for your school or university.
+Dal Events is a news feed application developed for Dalhousie university. The application will pull the news information about the Dalhousie university from the internet and creates feeds based on it. 
+The information that is gathered can be read on your android phone or tablet. The application currently displays the news feeds related to student life, research, and sports. The application also scans for the events that occur on the campus and display the content inside. 
+<br>
+<strong>Please feel free to use this code to generate a news feed application for your school or university.<strong>
 
 
 
